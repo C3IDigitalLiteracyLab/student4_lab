@@ -52,7 +52,7 @@ Congratulations, your life is now 17% more organized!
 * Student 19 - http://lab-student19-lab.apps.cloudcompass.ca
 * Student 20 - http://lab-student20-lab.apps.cloudcompass.ca
 
-##Access your repository on GitHub
+## Access your repository on GitHub
 
 Time to add the awesome.
 
@@ -93,7 +93,7 @@ The steps to find your way to your assigned GitHub repository are as follows:
 * You should see a list of files. These are the contents of the repository.
 * Congratulations! You have now completed GitHub Competency Level 1! 
 
-##Edit a source code file
+## Edit a source code file
 
 Each of the files listed in the repository you navigate to above are a part of the ToDo application, or some form of supporting material.  You will be making a change to the contents of one of these files, and then watching how it propagates through the build and deployment tooling.
  
@@ -108,7 +108,7 @@ To perform your edits:
 * Scroll to the very bottom of the page and in the "Update" field of the Commit changes" section, type something like "make app more awesome" and then click the green "Commit changes" button underneath.
 * Congratulations, you're now a junior front-end dev!
   
-##Follow build and deploy process
+## Follow build and deploy process
 
 The GitHub repository containing the file you edited above is connected to an automated pipeline that will build, test, and deploy a new version of your ToDo app for every change you make to your GitHub repository.
 
@@ -143,7 +143,7 @@ In this exercise, we're going to explore the pipeline that has been set up, and 
 * Click on the line of that pipeline, and, if it's still running, watch a minute or two until the test stage completes.  The test stage *should* fail and the pipeline has stops due to a failed test.  What went wrong?
 * While there - click on the steps of the pipeline and expand the line(s) below to see a log of what happened on each step.
 
-##Correct the application title
+## Correct the application title
 
 The test team knew that the title of the app had to be awesome, and you didn't have that in your app. Test Driven Development at work.  Write the test, it fails, write the code, it (hopefully) works.
 
@@ -156,14 +156,14 @@ To perform your fix:
 * Go to line 5 in the source code and change the text `<title>AngularJS • TodoMVC</title>` to `<title>AngularJS • AwesomeTodoMVC</title>`
 * Scroll to the very bottom of the page and in the "Update" field of the Commit changes" section, type something like "make title of app more awesome" and then click the green "Commit changes" button underneath.
 
-##Verify test success and approve production deployment
+## Verify test success and approve production deployment
 
 * Flip back to your pipeline browser tab.  You should see a new line in the pipeline execution list.  Click into it.  This time, the test stage should succeed because you've corrected the title.
 * This time, your test step should pass.
 * Ready for Prod? You'll be prompted to approve the deployment (promotion) of the app to production.
 * Click the approve button and watch the pipeline completes. 
 
-##Want to see what OpenShift is doing?
+## Want to see what OpenShift is doing?
 
 * If you want to see what's happening with OpenShift on this, ctrl-click the link for your lab:
 
