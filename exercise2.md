@@ -1,4 +1,6 @@
-#Cloud Compass Computing, Inc.<br>Digital Literacy Course<br><br>DevOps for Product Owners - Session 2 Exercise  
+#Cloud Compass Computing, Inc.
+
+##Digital Literacy Course - DevOps for Product Owners - Session 2 Exercise  
 
 ##Introduction
 
