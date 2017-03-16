@@ -20,7 +20,7 @@ Each student will have the use of their own repository and pipeline for this exe
 
 Before proceeding, make sure you have the label provided with your workbook, as it has the password details that you'll need in the steps below.
 
-##Access your deployed ToDo List web application
+## Access your deployed ToDo List web application
  
 The starting point of the exercise is that a version of the ToDo application has been deployed for each student. Your student number for the exercises is on the cover of your workbook.
 
