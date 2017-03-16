@@ -1,8 +1,8 @@
-#Cloud Compass Computing, Inc.
+# Cloud Compass Computing, Inc.
 
-##Digital Literacy Course - DevOps for Product Owners - Session 2 Exercise  
+## Digital Literacy Course - DevOps for Product Owners - Session 2 Exercise  
 
-##Introduction
+## Introduction
 
 Since the first release of your Awesome ToDo App, you're DevOps team has improved your pipeline by adding some test(s) after deployment and manual approval step before deploying to Prodution.  This involved adding the Jenkins to the pipeline to run the steps, and using Jenkins to add some automated testing, and the prod approval step.  Incidentally - the test your testers added was to make sure the the app really is "Awesome".
 
