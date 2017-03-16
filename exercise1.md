@@ -1,6 +1,8 @@
-#Cloud Compass Computing, Inc.<br>Digital Literacy Course<br><br>DevOps for Product Owners - Lab 1
+# Cloud Compass Computing, Inc.
 
-##Introduction
+##Digital Literacy Course - DevOps for Product Owners - Lab 1
+
+## Introduction
 
 It's the morning after a release. All went well until the DM called to say the Minister had an idea to make the site AWESOME. As the message passed down the line, the urgency went through the roof. Fix it NOW! you are told.
 
@@ -26,7 +28,7 @@ Each student will have the use of their own repository for this exercise, but pl
 
 Login details that you'll need are in the steps below.
 
-##Access your deployed ToDo List web application
+## Access your deployed ToDo List web application
  
 The starting point of the exercise is that a version of the ToDo application has been deployed for each student. Your student number for the exercises is on the cover of your workbook.
 
@@ -56,7 +58,7 @@ To view your version of the ToDo application:
 * Enter some items in the ToDo list.
 * Congratulations, your life is now 17% more organized!
 
-##Access your repository on GitHub
+## Access your repository on GitHub
 
 Time to add the awesome.
 
@@ -93,7 +95,7 @@ The steps to find your way to your assigned GitHub repository are as follows:
 * You should see a list of files. These are the contents of the repository.
 * Congratulations! You have now completed GitHub Competency Level 1! 
 
-##Edit a source code file
+## Edit a source code file
 
 Each of the files listed in the repository you navigate to above are a part of the ToDo application, or some form of supporting material.  You will be making a change to the contents of one of these files, and then watching how it propagates through the build and deployment tooling.
  
@@ -108,7 +110,7 @@ To perform your edits:
 * Scroll to the very bottom of the page and in the "Update" field of the Commit changes" section, type something like "make app more awesome" and then click the green "Commit changes" button underneath.
 * Congratulations, you're now a junior front-end dev!
   
-##Follow build and deploy process
+## Follow the build and deploy process
 
 The GitHub repository containing the file you edited above is connected to an OpenShift build and will build and deploy a new version of your ToDo app for every change you make to your GitHub repository.
 
