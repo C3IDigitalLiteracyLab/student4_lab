@@ -13,7 +13,7 @@ There's no release guide - all you have to as the developer is:
 * make the code changes necessary
 * commit it in a version control repo (github)
 
-From there, the automation will build the software and deploy it to the site, where you can see the changes you make.
+From there, the automation will build the software and deploy it to a test site, where you can see the changes you make.
 
 This exercise makes use of a basic "ToDo List" web application.
 
@@ -129,4 +129,4 @@ If the new deployment is complete, switch to your ToDo app browser tab and refre
 
 Congratulations you're now a DevOps Apprentice Level 1!
 
-Feel free to look around a bit in OpenShift.  Want to add capacity to your app? Bump up the number of CPUs to 2. Compare that with the iStore process.
+Feel free to look around a bit in OpenShift.  Want to add capacity to your app in test? Bump up the number of CPUs to 2. Compare that with the iStore process. Try having OpenShift open in a separate window from github, make an edit to the app (the index.html file) and watch what OpenShift does when you commit the change.
