@@ -1,4 +1,4 @@
-#Cloud Compass Computing, Inc.<br>Digital Literacy Course<br><br>DevOps for Product Owners
+# Cloud Compass Computing, Inc.<br>Digital Literacy Course<br><br>DevOps for Product Owners
 
 This site contains materials for the DevOps for Product Owners Digital Literacy Course.
 
